@@ -1,7 +1,12 @@
 clone project and open it in your IDE
+
 run `npm i` to install all dependecies for this project
+
 `npm start` to run the development server
+
 `npm run build` to build optimized web version
+
+
 
 
 

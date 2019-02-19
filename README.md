@@ -2,7 +2,7 @@ clone the project VIA URL and open in your IDE
 
 run `npm i` to install all dependencies
 
-run `npm start` to start the develoment mode
+run `npm start` to start the development mode
 
 run `npm run build` to build optimized web version
 
